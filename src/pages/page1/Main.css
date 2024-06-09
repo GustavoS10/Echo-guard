@@ -1,0 +1,61 @@
+ .Apresentacao{
+    margin-top: 7rem;
+    display: flex;
+}
+.Apresentacao div{
+    margin: 5rem;
+    margin-left: 35rem;
+}
+.Apresentacao #Apresentacao{
+    margin-right: 8rem;
+}
+.Apresentacao .ImageApresentacao{
+    margin-left: 8rem;
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+}
+.Apresentacao #Apresentacao h1{
+    text-align: start;
+    color: #000000;
+    margin-bottom: 2rem;
+    font-weight: bold;
+    font-size: 48px;
+}
+.Apresentacao #Apresentacao p{
+    text-align: start;
+    color: #7D7987;
+    font-weight: lighter;
+    font-size: 21px;
+    margin-bottom: 2rem;
+}
+.Apresentacao #Apresentacao #btn-ap,
+.Apresentacao .ImageApresentacao #btn-img{
+    background-color: #458FF6;
+    border-color: #458FF6;
+    border-radius: 50px 50px 50px 50px;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 0.8rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.Apresentacao #Apresentacao #btn-ap:hover,
+.Apresentacao .ImageApresentacao #btn-img:hover{
+    background-color: #2770d5;
+    border-color: #2770d5;
+    border-radius: 50px 50px 50px 50px;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 0.8rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.Apresentacao .ImageApresentacao img{
+    max-width:80%;
+    max-height:80%;
+    width: auto;
+    height: auto;
+} 

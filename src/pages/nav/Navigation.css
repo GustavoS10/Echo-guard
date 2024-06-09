@@ -1,0 +1,8 @@
+.navbar{
+    margin-top: 2rem;
+}
+
+.navbar .container-fluid .navbar-nav .nav-item{
+    background-color: gray;
+    display: flex;
+}
